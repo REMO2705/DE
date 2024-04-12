@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+https://github.com/REMO2705/NEWS-APP-WHICH-WORKS-ON-API/assets/102612436/09f97cab-c8ca-4283-85eb-ff21498e8d58
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
